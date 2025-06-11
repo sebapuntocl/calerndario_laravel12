@@ -46,5 +46,5 @@ El objetivo de este desarrollo es implementar un módulo reutilizable de calenda
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/calendario-reservas-laravel.git
+git clone https://github.com/sebapuntocl/calendario-reservas-laravel.git
 cd calendario-reservas-laravel
