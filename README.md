@@ -41,15 +41,6 @@ El objetivo de este desarrollo es implementar un módulo reutilizable de calenda
 
 ---
 
-## 📷 Capturas de pantalla
-
-![Vista mensual](ruta/ejemplo1.png)
-![Formulario modal](ruta/ejemplo2.png)
-
-> Reemplaza las rutas por imágenes reales subidas al repositorio (o usando GitHub Issues como host si no querés usar `/public`).
-
----
-
 ## ⚙️ Instalación
 
 1. Clonar el repositorio:
